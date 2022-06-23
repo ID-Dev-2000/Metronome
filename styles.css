@@ -1,0 +1,24 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    margin: 10px;
+    width: 120px;
+}
+
+.settings {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.metronomeBox {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
